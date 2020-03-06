@@ -5,7 +5,8 @@ This repository contains code and associated files for deploying ML models using
 
 ### Mini - Projects
 
-1. Population segmentation - using **PCA** to reduce the dimensionality of a dataset, and applying **K-means clustering** to assign each datapoint from the principal components to a particular cluster. 
+1. Population segmentation - using **PCA** to reduce the dimensionality of a dataset, and applying **K-means clustering** to assign each datapoint from the principal components to a particular cluster.
+2. Detecting Payment Card Fraud - using **binary classification - linear regression** to sort data into one of the two classes: fraudulent or valid. A high importance will be assigned to the **hyperparameters  tuning and managing class imbalance**.
 
 
 ## Setup Instructions
