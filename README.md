@@ -1,6 +1,6 @@
 # Machine Learning, Deployment Case Studies with AWS SageMaker
 
-This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of project files that will illustrate parts of the ML workflow and will provide practice in deploying a variety of ML algorithms.
+This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of project files that illustrates parts of the ML workflow and will provide practice in deploying a variety of ML algorithms.
 
 
 ### Mini - Projects
